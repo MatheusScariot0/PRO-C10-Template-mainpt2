@@ -22,8 +22,6 @@ function setup(){
   sea.velocityX = -5;
   sea.scale=0.3;
 
-  
-
 
   
   ship = createSprite(130,200,30,30);
