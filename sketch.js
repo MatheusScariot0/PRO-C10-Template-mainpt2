@@ -24,6 +24,7 @@ function setup(){
   sea.scale=0.3;
 
   
+  
   ship = createSprite(130,200,30,30);
   ship.addAnimation("movingShip",shipImg1);
   ship.scale =0.25;
